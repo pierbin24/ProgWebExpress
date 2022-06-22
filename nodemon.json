@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "ProgrammazioneWeb6",
+        "JWT_KEY": "secretkey"
+    }
+}
